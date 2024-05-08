@@ -22,7 +22,8 @@
     복잡한 규정이 많은 금융업에서도 RAG를 활용한 챗봇을 사용하는 것을 보고 결정하게 됨
     
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/859eed78-cfa2-4404-9c9c-031a62de054a/477f1303-2ed2-44d8-845a-a824adeecd83/Untitled.png)
+
+![Untitled](/docs/RAG.png)
 
 미리 데이터를 벡터DB에 저장을 해둔 뒤 유저가 질문하면 임베딩 모델이 관련된 문서의 관련된 문단이나 문장을 발췌하여 LLM모델에게 질문과 같이 입력하여 답변을 얻어낸다.
 
