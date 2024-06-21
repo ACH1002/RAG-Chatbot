@@ -2,7 +2,7 @@
 산업경영공학과 2024-1 졸업작품
 
 
-# 주제: RAG를 활용한 LLM 기반 인천대학교 규정 안내 챗봇
+# 주제: RAG를 활용한 LLM 기반 인천대학교 산업경영공학과 챗봇
 
 ## RAG(Retrieval Augmented Generation)
 
